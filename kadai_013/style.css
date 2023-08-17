@@ -67,7 +67,7 @@ PC用のスタイル
     display: none;
   }
 }
-
+@media screen and (max-width: 767px) {
 
 body{
   min-width: 375px;
@@ -129,4 +129,4 @@ body{
   background-repeat: no-repeat;
   background-position: right top;
 }
-
+}
